@@ -10,7 +10,7 @@ This repository contains the complete implementation, database pipelines, Bayesi
 
 > **"Twin-State Bayesian Evidence Engine for Personalized Ingredient-Level Food-Symptom Correlation with Explainable RAG-Grounded Recommendations"**  
 > **Author**: Basava S H \
-> Independent Researcher  
+> Independent Researcher \Bengaluru, Karnataka, India
 > **Contact**: `basavabasava5585@gmail.com`  
 
 ### IEEE Initial Submission
