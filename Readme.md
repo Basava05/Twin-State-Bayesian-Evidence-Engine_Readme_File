@@ -107,7 +107,7 @@ flowchart TD
 | **Database** | **MongoDB 7.0 + Beanie ODM** | Asynchronous document ODM with Motor driver |
 | **Statistical Engine** | **Scipy (Beta-Binomial)** | Conjugate Bayesian updating, quantile credible intervals |
 | **Embeddings** | **Sentence-Transformers** | `all-MiniLM-L6-v2` generating 384-dimensional semantic vectors |
-| **LLM Orchestration** | **Google Gemini Flash** | Provider-abstracted RAG pipeline (Gemini, OpenAI, Anthropic, DeepSeek) |
+| **LLM Orchestration** | **Google Gemini Flash** | Provider-abstracted RAG pipeline (Gemini) |
 | **Containerization** | **Docker & Docker Compose** | Multi-service local and cloud deployment orchestration |
 
 ---
