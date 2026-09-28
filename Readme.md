@@ -9,8 +9,8 @@
 This repository contains the complete implementation, database pipelines, Bayesian evidence engine, and user interface for the academic research paper:
 
 > **"Twin-State Bayesian Evidence Engine for Personalized Ingredient-Level Food-Symptom Correlation with Explainable RAG-Grounded Recommendations"**  
-> **Author**: Basava S H  
-> **Affiliation**: Department of Computer Science & Engineering, Ramaiah Institute of Technology, Bengaluru, India  
+> **Author**: Basava S H
+> Independent Researcher  
 > **Contact**: `basavabasava5585@gmail.com`  
 
 ### IEEE Initial Submission
