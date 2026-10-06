@@ -97,20 +97,7 @@ flowchart TD
 
 ---
 
-## 💻 Tech Stack
 
-| Layer | Technology | Description |
-|:---|:---|:---|
-| **Frontend** | **Next.js 14+ (App Router)** | Modern React 19 framework with Server & Client components |
-| **Styling & UI** | **Tailwind CSS + Framer Motion** | Glassmorphism design tokens, micro-interactions, responsive dashboard |
-| **Backend** | **FastAPI (Python 3.11)** | High-performance asynchronous REST API with OpenAPI autodocs |
-| **Database** | **MongoDB 7.0 + Beanie ODM** | Asynchronous document ODM with Motor driver |
-| **Statistical Engine** | **Scipy (Beta-Binomial)** | Conjugate Bayesian updating, quantile credible intervals |
-| **Embeddings** | **Sentence-Transformers** | `all-MiniLM-L6-v2` generating 384-dimensional semantic vectors |
-| **LLM Orchestration** | **Google Gemini Flash** | Provider-abstracted RAG pipeline (Gemini) |
-| **Containerization** | **Docker & Docker Compose** | Multi-service local and cloud deployment orchestration |
-
----
 
 
 
