@@ -19,10 +19,10 @@
 | ![Food Search & Ingredient Breakdown](./food_search_Image.jpg) | ![Gut Health Insights Dashboard for User 2](./insight_image_of_user_2.jfif) |
 | *Deconstructs composite dishes into raw ingredients, allergens, and nutritional profiles in real time.* | *Visualizes Bayesian trigger probabilities, credible intervals, and evidence exposure counts.* |
 
-| **3. Grounded Zero-Hallucination AI Chat (User 2)** | **4. IEEE Conference Submission Confirmation not publication** |
+| **3. Grounded Zero-Hallucination AI Chat (User 2)** | **4. IEEE TAI Submission Confirmation not publication** |
 |:---:|:---:|
 | ![AI Chat Summary & Grounded RAG](./ai_Chat_Summary_for_user2.jfif) | ![IEEE Initial Submission](./iee_initial_submission.jpg) |
-| *Retrieval-Augmented Generation that only answers using mathematically computed personal evidence.* | *Official submission confirmation of research paper to IEEE conference.* |
+| *Retrieval-Augmented Generation that only answers using mathematically computed personal evidence.* | *Official submission confirmation of research paper to IEEE Transactions on Artificial Intelligence.* |
 
 ---
 
